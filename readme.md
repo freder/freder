@@ -1,1 +1,2 @@
-test
+- [freder.io](http://freder.io/)
+- [rulesrulesrules.studio](https://rulesrulesrules.studio/)
