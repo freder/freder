@@ -1,2 +1,6 @@
-– [freder.io](http://freder.io/)<br>
-– [rulesrulesrules.studio](https://rulesrulesrules.studio/)<br>
+- [freder.io](http://freder.io/)
+- [rulesrulesrules.studio](https://rulesrulesrules.studio/)
+- # [give-and-take.download](https://give-and-take.download/)
+- # [all-eyes-on-me.watch](https://all-eyes-on-me.watch/)
+- # [inner-values.report](http://inner-values.report/)
+- # [the-distant-past.xyz](https://the-distant-past.xyz/)
