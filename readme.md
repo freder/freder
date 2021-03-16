@@ -1,5 +1,7 @@
 - [freder.io](http://freder.io/)
+  - [↗︎](https://www.are.na/frederic-brodbeck)
 - [rulesrulesrules.studio](https://rulesrulesrules.studio/)
+  - [↗︎](https://www.instagram.com/rulesrulesrules.studio/)
 - # [give-and-take.download](https://give-and-take.download/)
 - # [all-eyes-on-me.watch](https://all-eyes-on-me.watch/)
 - # [inner-values.report](http://inner-values.report/)
