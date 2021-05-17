@@ -5,5 +5,5 @@
 - # [give-and-take.download](https://give-and-take.download/)
 - # [all-eyes-on-me.watch](https://all-eyes-on-me.watch/)
 - # [inner-values.report](http://inner-values.report/)
-a website that is just its analytics report
+  - a website that is just its analytics report
 - # [the-distant-past.xyz](https://the-distant-past.xyz/)
