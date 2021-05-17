@@ -1,5 +1,6 @@
 - [freder.io](http://freder.io/)
   - [are.na](https://www.are.na/frederic-brodbeck)
+  - [linkedin](https://www.linkedin.com/in/frederic-brodbeck-35a87828/)
 - [rulesrulesrules.studio](https://rulesrulesrules.studio/)
   - [instagram](https://www.instagram.com/rulesrulesrules.studio/)
 
