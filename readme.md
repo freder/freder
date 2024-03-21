@@ -1,8 +1,10 @@
-- [freder.io](http://freder.io/)
-  - [are.na](https://www.are.na/frederic-brodbeck)
-  - [linkedin](https://www.linkedin.com/in/frederic-brodbeck-35a87828/)
+- [website](http://freder.io/)
+- [are.na](https://www.are.na/frederic-brodbeck)
+- [linkedin](https://www.linkedin.com/in/frederic-brodbeck/)
+
+I run **RULES RULES RULES** – a generative design and software development studio, focusing on creative coding, data visualization, digital art, computer-generated images, and building custom tools and workflows around them.
 - [rulesrulesrules.studio](https://rulesrulesrules.studio/)
-  - [instagram](https://www.instagram.com/rulesrulesrules.studio/)
+- [instagram](https://www.instagram.com/rulesrulesrules.studio/)
 
 ---
 
