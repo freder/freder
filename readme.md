@@ -16,3 +16,54 @@ I run **RULES RULES RULES** – a generative design and software development stu
   - a website that is just its analytics report
 - [the-distant-past.xyz](https://the-distant-past.xyz/)
   - a website that is all its past versions
+
+---
+
+<details>
+  <summary>
+    <strong>Languages and tools I have used</strong>
+  </summary>
+  <ul>
+    <li><strong>Languages:</strong>
+      <ul>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Node.js</li>
+        <li>Python</li>
+        <li>Go</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Bash</li>
+      </ul>
+    </li>
+    <li><strong>Frameworks, libraries, APIs:</strong>
+      <ul>
+        <li>React</li>
+        <li>THREE</li>
+        <li>WebGL</li>
+        <li>d3</li>
+        <li>Jupyter Lab</li>
+        <li>Pandas</li>
+        <li>Numpy</li>
+        <li>OpenCV</li>
+        <li>scikit-learn</li>
+      </ul>
+    </li>
+    <li><strong>Creative coding:</strong>
+      <ul>
+        <li>Processing</li>
+        <li>openFrameworks</li>
+        <li>Unity</li>
+        <li>Blender</li>
+      </ul>
+    </li>
+    <li><strong>Tech:</strong>
+      <ul>
+        <li>Git</li>
+        <li>Linux</li>
+        <li>Docker</li>
+        <li>GraphQL</li>
+      </ul>
+    </li>
+  </ul>
+</details>
