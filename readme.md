@@ -69,5 +69,3 @@ I run **RULES RULES RULES** – a generative design and software development stu
 ---
 
 <a href="https://www.buymeacoffee.com/freder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important"></a>
-
-![visitors](https://rulesrulesrules.studio/anal/matomo.php?idsite=3&amp;rec=1)
