@@ -6,6 +6,8 @@ I run **RULES RULES RULES** – a generative design and software development stu
 - [rulesrulesrules.studio](https://rulesrulesrules.studio/)
 - [instagram](https://www.instagram.com/rulesrulesrules.studio/)
 
+---
+
 <details>
   <summary>
     <strong>Languages and tools I have used</strong>
