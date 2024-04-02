@@ -6,19 +6,6 @@ I run **RULES RULES RULES** – a generative design and software development stu
 - [rulesrulesrules.studio](https://rulesrulesrules.studio/)
 - [instagram](https://www.instagram.com/rulesrulesrules.studio/)
 
----
-
-- [give-and-take.download](https://give-and-take.download/)
-  - a website that lets you leave something behind for the next visitor
-- [all-eyes-on-me.watch](https://all-eyes-on-me.watch/)
-  - a websites that keeps eye contact with you
-- [inner-values.report](http://inner-values.report/)
-  - a website that is just its analytics report
-- [the-distant-past.xyz](https://the-distant-past.xyz/)
-  - a website that is all its past versions
-
----
-
 <details>
   <summary>
     <strong>Languages and tools I have used</strong>
@@ -67,3 +54,18 @@ I run **RULES RULES RULES** – a generative design and software development stu
     </li>
   </ul>
 </details>
+
+---
+
+- [give-and-take.download](https://give-and-take.download/)
+  - a website that lets you leave something behind for the next visitor
+- [all-eyes-on-me.watch](https://all-eyes-on-me.watch/)
+  - a websites that keeps eye contact with you
+- [inner-values.report](http://inner-values.report/)
+  - a website that is just its analytics report
+- [the-distant-past.xyz](https://the-distant-past.xyz/)
+  - a website that is all its past versions
+
+---
+
+<a href="https://www.buymeacoffee.com/freder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important"></a>
