@@ -1,8 +1,4 @@
-<span style="color: red;">
-  Currently looking for a permanent position as frontend / backend / full-stack engineer.
-</span>
-<br>
-<br>
+## Currently looking for a permanent position as frontend / backend / full-stack engineer.
 
 **Personal info:**
 
