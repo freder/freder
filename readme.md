@@ -1,8 +1,16 @@
-- [website](http://freder.io/)
-- [are.na](https://www.are.na/frederic-brodbeck)
-- [linkedin](https://www.linkedin.com/in/frederic-brodbeck/)
+<span style="color: red;">
+  Currently looking for a permanent position as frontend / backend / full-stack engineer.
+</span>
+<br>
+<br>
 
-I run **RULES RULES RULES** – a generative design and software development studio, focusing on creative coding, data visualization, digital art, computer-generated images, and building custom tools and workflows around them.
+**Personal info:**
+
+- [linkedin](https://www.linkedin.com/in/frederic-brodbeck/)
+- [website](http://freder.io/)
+<!-- - [are.na](https://www.are.na/frederic-brodbeck) -->
+
+**RULES RULES RULES** is my generative design / software development practice, focusing on creative coding, data visualization, digital art, computer-generated images, and building custom tools and workflows around them.
 - [rulesrulesrules.studio](https://rulesrulesrules.studio/)
 - [instagram](https://www.instagram.com/rulesrulesrules.studio/)
 
@@ -56,17 +64,6 @@ I run **RULES RULES RULES** – a generative design and software development stu
     </li>
   </ul>
 </details>
-
----
-
-- [give-and-take.download](https://give-and-take.download/)
-  - a website that lets you leave something behind for the next visitor
-- [all-eyes-on-me.watch](https://all-eyes-on-me.watch/)
-  - a websites that keeps eye contact with you
-- [inner-values.report](http://inner-values.report/)
-  - a website that is just its analytics report
-- [the-distant-past.xyz](https://the-distant-past.xyz/)
-  - a website that is all its past versions
 
 ---
 
